@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-
-    [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=OnurYenidogan)](https://github.com/OnurYenidogan) [![Top Langs](https://github-readme-stats.vercel.app/api?username=OnurYenidogan&layout=compact)](https://github.com/OnurYenidogan)
-
-    
-
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=OnurYenidogan)](https://github.com/OnurYenidogan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurYenidogan&layout=compact)](https://github.com/OnurYenidogan)
 
 
 <!--
