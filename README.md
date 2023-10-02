@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<div class="row">
-  <div class="col-md-6">
-    [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=OnurYenidogan)](https://github.com/OnurYenidogan)
-  </div>
-  <div class="col-md-6">
-    [![Top Langs](https://github-readme-stats.vercel.app/api?username=OnurYenidogan&layout=compact)](https://github.com/OnurYenidogan)
-  </div>
-</div>
+
+    [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=OnurYenidogan)](https://github.com/OnurYenidogan) [![Top Langs](https://github-readme-stats.vercel.app/api?username=OnurYenidogan&layout=compact)](https://github.com/OnurYenidogan)
+
+    
+
 
 
 <!--
